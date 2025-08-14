@@ -1,4 +1,4 @@
-# Hi, I'm Swathi 
+# Hi, I'm Swathi Sampath Kumar
 **Junior AI/ML Engineer & Data Scientist**  
 LLMs, RAG, MLOps • Python, PyTorch, TensorFlow • SQL, Tableau
 
