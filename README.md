@@ -2,7 +2,7 @@
 **Junior AI/ML Engineer & Data Scientist**  
 LLMs, RAG, MLOps • Python, PyTorch, TensorFlow • SQL, Tableau
 
-[LinkedIn]([https://www.linkedin.com/in/swathi-sampath-kumar-467641285/]) • [Email](mailto:swathisampath18@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/swathi-sampath-kumar-467641285/) • [Email](mailto:swathisampath18@gmail.com)
 
 ### What I do
 - Build LLM/RAG apps that automate real workflows
